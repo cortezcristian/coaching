@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Coaching",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "cortezcristian",
+    "githubRepository": "coaching"
+  }
+}
